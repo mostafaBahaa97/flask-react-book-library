@@ -88,23 +88,12 @@ Frontend and backend are fully separated and can run independently.
 
 .gitignore and .dockerignore files are configured for both parts.
 
-📸 Screenshots
-You can add screenshots of the frontend UI here.
 
 ✍️ Author
 Mostafa Bahaa
 
 GitHub
+https://github.com/mostafaBahaa97
 
 LinkedIn
-
-📄 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-لو حابب أعملك نسخة من الملف الجاهز `.md` وأرفعها في المشروع، قولي بس اسم الملف أو اكتبه هنا، أو [أكمل تلقائيًا رفعه للمشروع الحالي](f)؟
+https://www.linkedin.com/in/mostafabahaaeldin-dev/
