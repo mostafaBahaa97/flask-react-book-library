@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Env files
+.env
+.flaskenv
+
+# Virtual environments
+env/
+venv/
+flask_venv/
+
+# Databases
+*.db
+*.sqlite3
+instance/
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# Others
+*.log
+*.bak
+*.swp
+*.swo
+*.egg-info/
